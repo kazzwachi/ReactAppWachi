@@ -1,0 +1,17 @@
+@CHARSET "UTF-8";
+.incompleted{
+	color : red;
+}
+.completed{
+	color : blue;
+}
+table{
+	border : solid 1px gray;
+}
+td,th{
+	border : solid 1px gray;
+}
+td:first-child{
+	background-color : silver;
+	cursor : pointer;
+}
